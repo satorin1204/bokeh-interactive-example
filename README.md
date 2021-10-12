@@ -5,12 +5,12 @@
 ```
 poetry run jupyter notebook
 ```
-## CustomJS (python)
+## CustomJS (python scirpt)
 ```
 poetry run python src/example_custom_js.py
 ```
 
-## Python callback
+## Python callback (python scirpt)
 ```
 poetry run bokeh --show src/example_python_callback.py
 ```
